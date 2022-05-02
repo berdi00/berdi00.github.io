@@ -1,7 +1,7 @@
 {
   "name": "redux-todo",
   "version": "0.1.0",
-  "homepage": "https://berdi00.github.io",
+  "homepage": "https://berdi00.github.io/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
